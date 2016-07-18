@@ -39,6 +39,8 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'database_cleaner'
   gem 'rails-controller-testing'
+  gem 'omniauth-oauth2'
+  gem 'figaro'
 end
 
 group :development do
